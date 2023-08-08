@@ -1,0 +1,1 @@
+This project is to share a repository of images to PDI Final project. This repository contain images of dogs, horses and persons saved from Internet.
