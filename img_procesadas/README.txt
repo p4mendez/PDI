@@ -1,0 +1,1 @@
+Esta carpeta contiene las imagenes procesadas por el modelo YOLOV4
