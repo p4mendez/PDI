@@ -1,0 +1,1 @@
+Esta carpeta contiene imagenes procesadas para agregar sal y pimienta.

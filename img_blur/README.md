@@ -1,0 +1,1 @@
+Esta carpeta contiene imagenes procesadas que contienen Blur.
